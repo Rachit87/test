@@ -5,3 +5,6 @@ Spring
 Hibernate
 Restful
 
+
+Python
+Linux
